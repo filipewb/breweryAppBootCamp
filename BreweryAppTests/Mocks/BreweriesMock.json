@@ -1,0 +1,39 @@
+[
+    {
+        "id": "abbey-brewing-co-miami-beach",
+        "name": "Abbey Brewing Co",
+        "brewery_type": "contract",
+        "street": "1115 16th St",
+        "address": null,
+        "city": "Miami Beach",
+        "state": "Florida",
+        "postal_code": "33139-2441",
+        "country": "United States",
+        "longitude": -80.1402943,
+        "latitude": 25.7890381,
+        "website_url": null,
+        "phone": null,
+        "average": 3.3,
+        "size_evaluations": 81,
+        "photos": null
+    },
+    {
+        "id": "bay-brewing-company-miami",
+        "name": "Bay Brewing Company",
+        "brewery_type": "planning",
+        "street": null,
+        "address": null,
+        "city": "Miami",
+        "state": "Florida",
+        "postal_code": "33130-3488",
+        "country": "United States",
+        "longitude": null,
+        "latitude": null,
+        "website_url": null,
+        "phone": null,
+        "average": 3.4,
+        "size_evaluations": 70,
+        "photos": null
+    }
+]
+

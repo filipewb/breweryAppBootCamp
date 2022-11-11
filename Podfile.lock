@@ -1,0 +1,20 @@
+PODS:
+  - Cosmos (23.0.0)
+  - Resolver (1.5.0)
+
+DEPENDENCIES:
+  - Cosmos
+  - Resolver
+
+SPEC REPOS:
+  trunk:
+    - Cosmos
+    - Resolver
+
+SPEC CHECKSUMS:
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  Resolver: 68984624572763018fd8ec7b8e3e8df0e3b6bba5
+
+PODFILE CHECKSUM: 43325a587fe8a580429cf3514776eea51976e507
+
+COCOAPODS: 1.11.3
